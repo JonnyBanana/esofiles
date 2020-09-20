@@ -53,3 +53,13 @@ and now in 2013 it seems appropriate that the file archive,
 to the extent it is still relevant,
 should become a git repo everyone can fork and clone
 to their heart's content.
+
+
+
+
+</BR>
+
+<a href="https://golden-farm.biz/?r=1673249" target="_blank">
+<img src="https://golden-farm.biz/images/promo/en/728x90.gif"
+alt="Profit every 10 minutes!"></a>
+
